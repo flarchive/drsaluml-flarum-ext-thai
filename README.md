@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of drsaluml/flarum-ext-thai.** Not for installation: use [Packagist](https://packagist.org/packages/drsaluml/flarum-ext-thai) or the [upstream repository](https://github.com/drsaluml/flarum-ext-thai).
 
-**0** versions archived · Latest: [`v1.0`](https://github.com/flarchive/drsaluml-flarum-ext-thai/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`v1.0`](https://github.com/flarchive/drsaluml-flarum-ext-thai/tree/archive/v1.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0` | 2019-02-14 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/drsaluml-flarum-ext-thai/tree/archive/v1.0) |
 
 Catalog entry: [packages/drsaluml-flarum-ext-thai.json](https://github.com/flarchive/archive-index/blob/main/packages/drsaluml-flarum-ext-thai.json)
 
